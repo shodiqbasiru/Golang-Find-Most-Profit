@@ -39,7 +39,7 @@ func main() {
 	trxAmount := 2
 	fmt.Println(maxProfit(prices, trxAmount)) // 2
 
-	prices = []int{3, 2, 6, 5, 0, 3}
+	prices = []int{3, 2, 6, 5, 0, 3} // sample stock prices in
 	trxAmount = 2
 	fmt.Println(maxProfit(prices, trxAmount)) // 7
 
